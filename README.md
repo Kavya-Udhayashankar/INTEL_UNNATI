@@ -14,7 +14,7 @@ The chosen LLM model for this project is Mistral, which has been specifically fi
 - User-Friendly Streamlit Interface
 
 ## Details
-- DATASET: [AnonY0324/orca-math-word-problems-200k](https://huggingface.co/datasets/AnonY0324/orca-math-word-problems-200k)
+- DATASET: [AnonY0324/orca-math-problems](https://huggingface.co/datasets/AnonY0324/orca-math-word-problems-200k)
 - MODEL: [UKV/mistral_q5_k_m_maths_dataset](https://huggingface.co/UKV/mistral_q5_k_m_maths_dataset_akh)
 - [Quantisation_of_LLM](Quantisation_of_LLM.ipynb)
 - [FInetuning_of_LLM](Finetuning_of_LLM.ipynb)
